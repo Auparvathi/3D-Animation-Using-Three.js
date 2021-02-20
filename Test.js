@@ -330,7 +330,7 @@ function animate(){
      revolution_moon(90, 1000, moon);
      revolution_mar(1000, 2000, mar);
      jup.rotation.y += 0.01;
-     revolution_jup(1400, 6000, jup);
+     revolution_jup(1400, 4000, jup);
      sat.rotation.y += 0.01;
      revolution_sat(1800, 7000, sat);
      ura.rotation.y += 0.01;
